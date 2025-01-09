@@ -1,1 +1,1 @@
-Проектная работа «Оно тебе надо».
+https://github.com/ypracticumdr/ono-tebe-nado.git
